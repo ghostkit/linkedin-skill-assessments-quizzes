@@ -456,7 +456,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q59. Why would you use Outline view?
 
-- [ ] to quickly edit titles or bulleted text in the Slide pane
+- [x] to quickly edit titles or bulleted text in the Slide pane
 - [ ] to view the comments on all slides
 - [ ] to add notes in the Slide pane
 - [ ] to change the font on all slides
@@ -574,7 +574,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 #### Q74. You created a photo album with transitions and want to send it to friends, but the file size is too large for email. How can you use one command to fix this?
 
 - [ ] Click **Export** in Backstage view and embed the presentation in an email.
-- [ ] Compress all the pictures to the **Email (96 ppi) resolution**.
+- [x] Compress all the pictures to the **Email (96 ppi) resolution**.
 - [ ] Use the Share feature in Backstage view and petty email to automatically compress the pictures.
 - [ ] Use the Share feature in Backstage view to create a pdf to send as an attachment.
 
@@ -582,7 +582,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 - [ ] the decline of voter turnout by county
 - [ ] trends in voter turnout over the part 10 years
-- [ ] what percentage of the whole population voted
+- [x] what percentage of the whole population voted
 - [ ] how many people voted in various geographic regions on a map
 
 #### Q76. A few lines of text are overflowing the placeholder on your slide. How can you fix it on your slide?
@@ -621,7 +621,7 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q80. How can you create a new presentation that includes prebuild layouts, colors, fonts, background styles, and content?
 
-- [ ] Use a theme.
+- [x] Use a theme.
 - [ ] Use a design.
 - [ ] Use a template.
 - [ ] Use a style.
